@@ -17,11 +17,11 @@ This project documents the analysis, design, and testing of a **Digital Parking 
 
 | Task | Description | Status |
 |------|-------------|--------|
-| Task 1 | Requirements (Functional & Non-Functional) | ✅ Complete |
-| Task 2 | Workflow Diagram | ✅ Complete |
-| Task 3 | Test Case Table (6 test cases) | ✅ Complete |
-| Task 4 | Defect Analysis | ✅ Complete |
-| Task 5 | GitHub Evidence | ✅ Complete |
+| Task 1 | Requirements (Functional & Non-Functional) |  Complete |
+| Task 2 | Workflow Diagram |  Complete |
+| Task 3 | Test Case Table (6 test cases) |  Complete |
+| Task 4 | Defect Analysis |  Complete |
+| Task 5 | GitHub Evidence |  Complete |
 
 ---
 
