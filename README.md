@@ -73,16 +73,3 @@ SER216_Final_Project_StudentName/
 6. Compiled final PDF report
 7. Uploaded all files and created pull request from feature branch to main
 8. Merged pull request after reviewing all work
-
----
-
-## GitHub Repository Link
-
-> [https://github.com/YourUsername/SER216_Final_Project_StudentName](https://github.com/YourUsername/SER216_Final_Project_StudentName)
-
----
-
-## Submission
-
-- **Final PDF:** `final_report.pdf` (included in this repository)
-- **GitHub Link:** Included inside the final PDF report
